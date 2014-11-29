@@ -10,6 +10,6 @@
     "express": "3.2.6",
     "ejs": "*"
     "jade": "*",
-    "node-rest-client": "^1.4.1"
+    "node-rest-client": "1.4.1"
   }
 }
